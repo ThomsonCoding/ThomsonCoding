@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan! (@ThomsonCoding)
-- 👀 I’m interested in Programming, Football and Travelling.
+- 👀 I’m interested in Programming, Fitness, Football and Travelling.
 - 🌱 I’m currently learning and working towards becoming a Front-End developer/Software engineer. 
 - 💞️ I’m looking to collaborate on anything Javascript related.
 - 📫 You can reach me via my portfolio, https://thomsoncoding.github.io/Portfolio
